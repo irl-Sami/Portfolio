@@ -1,0 +1,19 @@
+:root{
+    --skin-color: #ec1839;
+}
+
+body.red{
+    --skin-color: #ec1839;
+}
+body.blue{
+    --skin-color: #5118ec;
+}
+body.green{
+    --skin-color: #009c0a;
+}
+body.white{
+    --skin-color: #ffffff;
+}
+body.black{
+    --skin-color: #000000;
+}
